@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine Learning,Django**
 
-- 💬 Ask me about **Ml,Django,react**
+- 💬 Ask me about **Ml,Django,Python,UI/UX, Web Development**
 
-- ⚡ Fun fact **I am Clam,Peacefull,and beautiful**
+- ⚡ Fun fact **I am a calm person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
