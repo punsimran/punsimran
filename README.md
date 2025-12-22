@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,Django**
 
-- 💬 Ask me about **Ml,FinTech,Python,UI/UX, Web Development**
+- 💬 Ask me about **Ml,Python,Django, Web Development**
 
 - ⚡ Fun fact **I am a calm person.**
 
